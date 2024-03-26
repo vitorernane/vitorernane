@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Olá, meu nome é Vitor Ernane sou um Dev iOS. Atualmente estou utilizando o GitHub para compartilhar alguns projetos pessoais que estou codando em Swift.
+
 <!--
 **vitorernane/vitorernane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
