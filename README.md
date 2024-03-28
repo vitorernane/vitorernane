@@ -1,8 +1,8 @@
-## Olá GitHuber, deixe eu me apresentar rapidinho! 
+## Aopa! tudo bem? 
 
-#### Um jovem que através de curiosidades e sonhos entrou no mundo digital, primeiro desenvolvendo sites através do WordPress e agora me especializando em desenvolvimento iOS.
+#### Vamos chegar e tomar um cafézinho? 😄
 
-Sempre buscando novas idéias e melhorias para o mercado atual, trago essas soluções para meu GitHub para que outras pessoas também possam ter acesso a elas! Fique a vontade para navegar em meus projetos :)
+Desenvolvedor iOS e também designer UI l UX, apaixonado por esportes e tecnologia, sempre buscando prototipar novas idéias para o mercado e compartilhando com vocês aqui no GitHub. 
 
 ⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
 ⦿ 👨🏻‍💻 Projeto @Birdler<br>
