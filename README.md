@@ -1,6 +1,8 @@
-### Olá, sou um desenvolvedor iOS! 👋
+### Olá GitHuber, deixe eu me apresentar rapidinho! 
 
-Me chamo Vitor Ernane e posso dizer que sou uma pessoa que através de curiosidades e sonhos entrei no mundo digital, primeiro desenvolvendo sites através do WordPress e agora me especializando em desenvolvimento iOS, sempre buscando novas idéias e melhorias para o mercado atual, trago essas soluções para meu GitHub para que outras pessoas também possam ter acesso a elas! Fique a vontade para navegar em meus projetos :)
+## Um jovem que através de curiosidades e sonhos entrou no mundo digital, primeiro desenvolvendo sites através do WordPress e agora me especializando em desenvolvimento iOS.
+
+Sempre buscando novas idéias e melhorias para o mercado atual, trago essas soluções para meu GitHub para que outras pessoas também possam ter acesso a elas! Fique a vontade para navegar em meus projetos :)
 
 ⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
 ⦿ 👨🏻‍💻 Projeto @Birdler<br>
@@ -10,7 +12,7 @@ Me chamo Vitor Ernane e posso dizer que sou uma pessoa que através de curiosida
 ⦿ 🌱 Busque evoluir a cada dia, a chave é a constância! <br>
 <p></p>
 
-### Conecte-se comigo!
+### 🤝 Conecte-se comigo!
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
