@@ -2,7 +2,7 @@
 
 ### Vamos chegar e tomar um cafézinho? 😄
 
-Desenvolvedor iOS e também designer UI l UX, apaixonado por tecnologia e esportes, sempre buscando prototipar novas idéias para o mercado e compartilhando com vocês aqui no GitHub. 
+Desenvolvedor iOS e também designer UI l UX, apaixonado por tecnologia e esportes. Busco prototipar novas idéias para o mercado e compartilho com vocês aqui no GitHub. 
 
 ⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
 ⦿ 👨🏻‍💻 Projeto @Birdler<br>
@@ -25,12 +25,11 @@ Desenvolvedor iOS e também designer UI l UX, apaixonado por tecnologia e esport
  <a href="https://Discordapp.com/users/905136805362425917" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitorernane.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-ernane-guedes-180953172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+  </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/vitorernane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/vitorernane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/vitorernane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/Vitorernane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/Vitorernane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/Vitorernane/output/github-contribution-grid-snake.svg">
 </picture>
 
