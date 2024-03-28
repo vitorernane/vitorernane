@@ -7,7 +7,7 @@ Desenvolvedor iOS e também designer UI l UX, apaixonado por esportes e tecnolog
 ⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
 ⦿ 👨🏻‍💻 Projeto @Birdler<br>
 ⦿ ⚒️ Diariamente utilizo .swift .xcode .figma .scrum .trello <br>
-⦿ 🌎 Morando em Uberlândia, mas querendo conhecer o mundo codando. <br>
+⦿ 🌎 Morando em Uberlândia, mas quero conhecer o mundo codando. <br>
 ⦿ 💡 Meus insights: Birdler, ListMoney, KombiTrip, RSports, iPoke <br>
 ⦿ 🌱 Busque evoluir a cada dia, a chave é a constância! <br>
 <p></p>
