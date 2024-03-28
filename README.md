@@ -4,10 +4,11 @@ Me chamo Vitor Ernane e posso dizer que sou uma pessoa que através de curiosida
 
 ⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
 ⦿ 👨🏻‍💻 Projeto @Birdler<br>
-⦿ ⚒️ Diariamente utilizo .swift .xcode .figma .scrum .trello✌🏻
-⦿ 🌎 Morando em Uberlândia, mas querendo conhecer o mundo codando.
-⦿ 💡 Meus insights: Birdler, ListMoney, KombiTrip, RSports, iPoke
-⦿ 🌱 Busque evoluir a cada dia, a chave é a constância! 
+⦿ ⚒️ Diariamente utilizo .swift .xcode .figma .scrum .trello <br>
+⦿ 🌎 Morando em Uberlândia, mas querendo conhecer o mundo codando. <br>
+⦿ 💡 Meus insights: Birdler, ListMoney, KombiTrip, RSports, iPoke <br>
+⦿ 🌱 Busque evoluir a cada dia, a chave é a constância! <br>
+<p></p>
 
 ### Conecte-se comigo!
 
