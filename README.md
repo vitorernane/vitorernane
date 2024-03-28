@@ -2,8 +2,8 @@
 
 Me chamo Vitor Ernane e posso dizer que sou uma pessoa que através de curiosidades e sonhos entrei no mundo digital, primeiro desenvolvendo sites através do WordPress e agora me especializando em desenvolvimento iOS, sempre buscando novas idéias e melhorias para o mercado atual, trago essas soluções para meu GitHub para que outras pessoas também possam ter acesso a elas! Fique a vontade para navegar em meus projetos :)
 
-⦿ 🏢 Atualmente atuando como Freela no 👇🏻
-⦿ 👨🏻‍💻 Projeto @Birdler
+⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
+⦿ 👨🏻‍💻 Projeto @Birdler<br>
 ⦿ ⚒️ Diariamente utilizo .swift .xcode .figma .scrum .trello✌🏻
 ⦿ 🌎 Morando em Uberlândia, mas querendo conhecer o mundo codando.
 ⦿ 💡 Meus insights: Birdler, ListMoney, KombiTrip, RSports, iPoke
