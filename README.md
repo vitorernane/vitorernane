@@ -2,7 +2,7 @@
 
 ### Vamos chegar e tomar um cafézinho? 😄
 
-Desenvolvedor iOS e também designer UI l UX, apaixonado por tecnologia e esportes. Busco prototipar novas idéias para o mercado e compartilho com vocês aqui no GitHub. 
+Desenvolvedor iOS e designer UI l UX, apaixonado por tecnologia e esportes. Busco prototipar novas idéias para o mercado e compartilho com vocês aqui no GitHub. 
 
 ⦿ 🏢 Atualmente atuando como Freela no 👇🏻<br>
 ⦿ 👨🏻‍💻 Projeto @Birdler<br>
